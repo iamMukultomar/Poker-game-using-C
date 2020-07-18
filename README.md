@@ -1,0 +1,1 @@
+This is my Project i did while pursuing specialization in C from coursera. I made this effeective and smart Poker game as my final Assignment and it helped me to get my specialization done with full grade. 
